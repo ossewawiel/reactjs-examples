@@ -1,0 +1,1 @@
+export { OptAlertDialog } from './optAlertDialog';
